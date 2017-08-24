@@ -1,0 +1,132 @@
+html,
+body {
+    height:100%;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+.btn {
+    transition: all 0.3s ease-in-out;
+}
+
+@media(max-width:930px) {
+    #caro img {
+        width: 100%;
+    }
+    #footer {
+        text-align:center;
+    }
+}
+
+.navbar {
+  background-color:rgb(87, 165, 149) !important;
+  border-bottom: 1px solid #dedede;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+
+.navbar .nav .nav-item .nav-link {
+  color: #fff;
+}
+
+.navbar .nav .nav-item .nav-link:hover {
+  color: #d1d1d1;
+}
+
+.navbar-toggler {
+    color: white;
+}
+
+
+/*FOOTER*/
+
+#footer {
+    /*padding:2rem 0;*/
+    background-color:rgb(146, 223, 217);
+    color:gray;
+}
+
+#footer a {
+    color:gray;
+}
+
+#footer .fa {
+    font-size: 1em;
+}
+
+#footer p {
+    font-size: 1em;
+}
+
+#footer img {
+    margin: 0;
+}
+
+#fafooter .fa {
+    padding:0 5px;
+    font-size:0.5em;
+    color: #003366;
+    border:1px solid gray;
+    width:20px;
+    height:20px;
+    border-radius:30%;
+    text-align:center;
+    padding:30% 0;
+    margin-top:10px;
+    transition:all 0.4s ease-in-out;
+}
+
+#footer .fa-facebook:hover {
+    color: #3B5998;
+}
+
+#footer .fa-twitter:hover {
+    color: #1DA1F2;
+}
+
+#footer .fa-instagram:hover {
+    color: #000008;
+}
+
+#footer .fa-pinterest-p:hover {
+    color: #BD081C;
+}
+
+#footer .fa-google-plus:hover {
+    color: #d34836;
+}
+
+#footer .fa-rss:hover {
+    color: #ff6600;
+}
+
+/* CAROUSEL */
+
+#caro {
+
+    height: 600px;
+    width: 100%;
+    padding: 0;
+}
+
+/* SEARCH */
+
+#search {
+
+    height: 200px;
+    margin-bottom: 10px;
+    padding:2rem 0;
+}
+
+/* VIEW ALL BUTTON */
+
+#all {
+
+    height: 200px;
+
+    padding:5rem 0;
+}
+
+
+#drugheading {
+
+    padding-bottom: 3rem;
+}
