@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@drawable/logo"
+    android:orientation="vertical"
+    tools:context="com.example.aderelemaryidowu.integerhackathon.DrugListDetails">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Drug Name"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="24dp"
+        android:textSize="15sp"
+        android:id="@+id/drug_name_details"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Manufacturer's Name"
+        android:layout_marginBottom="24dp"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:id="@+id/manufacturer_name_details"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Curable Disease"
+        android:layout_marginBottom="24dp"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:id="@+id/curable_disease_details"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Adverse Effect"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:id="@+id/adverse_effect_details"
+        />
+
+</LinearLayout>

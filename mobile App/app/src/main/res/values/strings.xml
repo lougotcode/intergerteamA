@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">IntegerHackathon</string>
+    <string-array name="drug_names">
+        <item>"Paracetamol"</item>
+        <item>"Tramadol"</item>
+        <item>"Loratedene"</item>
+        <item>"Diclofenac"</item>
+        <item>"Antacid"</item>
+        <item>"Ampliclox"</item>
+        <item>"Cypri-Gold"</item>
+        <item>"Panadol"</item>
+        <item>"Chloraphenicol"</item>
+        <item>"BabyRex"</item>
+        <item> "Azithromycin"</item>
+        <item>"Benzocaine"</item>
+        <item>"Cephalexin"</item>
+        <item>"Dicloxacillin"</item>
+        <item>"Furosemide"</item>
+        <item>"Lisinopril"</item>
+        <item>"Metformin"</item>
+        <item>"Notriptyline"</item>
+        <item>"Phendimetrazine"</item>
+        <item>"Simvastatin"</item>
+
+    </string-array>
+    <string-array name="manufacturer_names">
+        <item>"Tuyil"</item>
+        <item>"Daily Needs Industry"</item>
+        <item>"Mcpherson Pharmacy"</item>
+        <item>"Bond Chemicals"</item>
+        <item>"Logart"</item>
+        <item>"McCarthy Pharmacy"</item>
+        <item>"Haynes Industry"</item>
+        <item>"HelgeLand Drugs"</item>
+        <item>"John Crowley Chemicals"</item>
+        <item>"Coogler"</item>
+        <item>"GREENSTONE® BRAND."</item>
+        <item>"Dynarex Corporation"</item>
+        <item>"Cerner Multum, Inc. UK."</item>
+        <item>"Apothecon Inc, NJ."</item>
+        <item>"Merck and Co, Inc, PA."</item>
+        <item>"Ranbaxy Pharmaceuticals."</item>
+        <item>"Sandoz Pharmaceuticals Corporation, NJ."</item>
+        <item>"Boehringer-Ingelheim."</item>
+        <item>"Well Being Inc"</item>
+        <item>"Mayer and Baker"</item>
+
+
+
+
+
+
+
+
+    </string-array>
+    <string-array name="curable_sickness">
+        <item>"Headache"</item>
+        <item>"Tiredness"</item>
+        <item>"Cold and Cattarrh (flu)"</item>
+        <item>"Weak Bones and Tiredness"</item>
+        <item>"Stomach Disorder and Asthma"</item>
+        <item>"Bacteria Infection"</item>
+        <item>"Skin Infection"</item>
+        <item>"Fever"</item>
+        <item>"Tyhpoid and Fever"</item>
+        <item>"Short of Blood"</item>
+        <item>"Mycobacterium avium complex (MAC) disease"</item>
+        <item>"reduce pain or discomfort caused by minor skin irritations, sore throat, sunburn, teething pain, vaginal"</item>
+        <item>"Treatment of infections caused by bacteria"</item>
+        <item>"Treatment of many different types of infections caused by bacteria such as bronchitis, pneumonia"</item>
+        <item>"To treat fluid retention (edema) in people with congestive heart failure, liver disease"</item>
+        <item>"To treat high blood pressure (hypertension)"</item>
+        <item>"To improve blood sugar control in people with type 2 diabetes."</item>
+        <item>"To treat symptoms of depression."</item>
+        <item>"It increases your heart rate and blood pressure and decreases"</item>
+        <item>"It reduces levels of "bad" cholesterol (low-density lipoprotein, or LDL)"</item>
+    </string-array>
+
+    <string-array name="adverse_effect">
+        <item>"Kidney Weakness"</item>
+        <item>"Highness, Dizziness and Muscle stretched "</item>
+        <item>"Heart Weakness"</item>
+        <item>"It affect Veins and Muscle"</item>
+        <item>"Throat Itching"</item>
+        <item>"Hunger, Lean"</item>
+        <item>"Drain Blood"</item>
+        <item>"Tiredness"</item>
+        <item>"Uneasiness"</item>
+        <item>"Hunger and Thirsty"</item>
+        <item>"Cardiovascular: Palpitations and chest pain."</item>
+        <item>"rash; hives; itching; difficulty breathing; tightness in the chest</item>
+        <item>"Diarrhoea Rare: Abdominal or stomach pain blistering"</item>
+        <item>"nausea, vomiting, epigastric distress, loose stools, diarrhoea, flatulence"</item>
+        <item>"Hepatic encephalopathy in patients with hepatocellular insufficiency</item>
+        <item>"Blurred visioncloudy urineconfusiondecrease in urine output"</item>
+        <item>"diarrhoea, nausea, nausea and vomiting"</item>
+        <item>"Abdominal or stomach pain agitation, blurred vision"</item>
+        <item>"Seeing, hearing, or feeling things that are not there, severe mental changes"</item>
+        <item>"Dizziness,fainting, fast or irregular heart beat"</item>
+
+    </string-array>
+</resources>
