@@ -29,7 +29,7 @@
           <div class="collapse navbar-toggleable-xs" id="navigation">
               <ul class="nav navbar-nav float-sm-right">
                   <li class="nav-item">
-                      <a class="nav-link" href="#home">HOME</a>
+                      <a class="nav-link" href="index.php">HOME</a>
                   </li>
                   <li class="nav-item">
                       <a class="nav-link" href="#about">ABOUT</a>
