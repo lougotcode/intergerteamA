@@ -1,8 +1,12 @@
 # intergerteamA
 interger group A project
 
-SODIQ  : Backend     https://github.com/skilfulsidiq/intergerteamA
-EMEKA : FrontEnd
-LEKAN : MOBILE APP   https://github.com/lekzzy/IntegerHackathon
-LOUIS : FrontEnd
-VICTORIA : CREATIVE THINKER  
+SODIQ  : Backend  Developed the Backend(PHP and Mysql)   https://github.com/skilfulsidiq/intergerteamA
+
+EMEKA : FrontEnd  Developed the frontend HTML, CSS and BOOTSTRAP https://github.com/skilfulsidiq/intergerteamA
+
+LEKAN : MOBILE APP Developed the android App https://github.com/lekzzy/IntegerHackathon
+
+LOUIS : FrontEnd    Created the druglist data with excel
+
+VICTORIA : CREATIVE THINKER  Developed the Mockup, Logo and  the graphical view
