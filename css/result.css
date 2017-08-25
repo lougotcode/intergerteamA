@@ -7,17 +7,33 @@ body {
 .btn {
     transition: all 0.3s ease-in-out;
 }
+p{
+  width:40px;
+}
+
+@media(max-width:930px) {
+    #caro img {
+        width: 100%;
+    }
+    #footer {
+        text-align:center;
+    }
+}
+
 .navbar {
   background-color:rgb(87, 165, 149) !important;
   border-bottom: 1px solid #dedede;
   font-family: 'Alegreya Sans', sans-serif;
 }
+
 .navbar .nav .nav-item .nav-link {
   color: #fff;
 }
+
 .navbar .nav .nav-item .nav-link:hover {
   color: #d1d1d1;
 }
+
 .navbar-toggler {
     color: white;
 }
@@ -26,9 +42,10 @@ body {
 /*FOOTER*/
 
 #footer {
-    /*padding:2rem 0;*/
+    padding:2rem 0;
     background-color:rgb(146, 223, 217);
     color:gray;
+    margin-bottom: 0;
 }
 
 #footer a {
@@ -52,8 +69,8 @@ body {
     font-size:1.5em;
     color: #003366;
     border:1px solid gray;
-    width:50px;
-    height:50px;
+    width:60px;
+    height:60px;
     border-radius:30%;
     text-align:center;
     padding:30% 0;
@@ -85,43 +102,57 @@ body {
     color: #ff6600;
 }
 
-/* CAROUSEL */
-
-#caro {
-
-    height: 600px;
-    width: 100%;
-    padding: 0;
-}
 
 /* SEARCH */
 
 #search {
 
     height: 200px;
-    margin-bottom: 10px;
-    padding:2rem 0;
-}
-
-/* VIEW ALL BUTTON */
-
-#all {
-
-    height: 200px;
 
     padding:5rem 0;
+}
+
+/* H# */
+
+h3 {
+    color: #57A595;
+    font-size: 2em;
+
+}
+
+/* DRUG IMAGE DIV */
+
+#drugdisplay {
+    padding-top: 0;
+    padding-bottom: 40px;
+}
+
+#drugname {
+
+    background-image: url(../img/drugnamenew.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+#drugname h2 {
+
+    color: white;
+    font-size: 2em;
+    text-emphasis-color: dimgray;
+    text-align: center;
+    text-decoration-style: solid;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+#drugimage img {
+
+    border-radius: 5%;
 }
 
 
 #drugheading {
 
     padding-bottom: 3rem;
-}
-@media screen and (mix-width: 480px) {
-
-    #viewall{
-      width:90%;
-      text-align: center;
-      margin-bottom:5px;
-    }
 }
