@@ -7,9 +7,6 @@ body {
 .btn {
     transition: all 0.3s ease-in-out;
 }
-p{
-  width:40px;
-}
 
 @media(max-width:930px) {
     #caro img {
@@ -21,9 +18,9 @@ p{
 }
 
 .navbar {
-  background-color:rgb(87, 165, 149) !important;
+  background-color:rgb(87, 165, 149) !important;  
   border-bottom: 1px solid #dedede;
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;   
 }
 
 .navbar .nav .nav-item .nav-link {
@@ -106,10 +103,10 @@ p{
 /* SEARCH */
 
 #search {
-
+    
     height: 200px;
-
-    padding:5rem 0;
+   
+    padding:5rem 0;   
 }
 
 /* H# */
@@ -117,7 +114,7 @@ p{
 h3 {
     color: #57A595;
     font-size: 2em;
-
+    
 }
 
 /* DRUG IMAGE DIV */
@@ -128,7 +125,7 @@ h3 {
 }
 
 #drugname {
-
+    
     background-image: url(../img/drugnamenew.png);
     background-repeat: no-repeat;
     background-size: contain;
@@ -136,7 +133,7 @@ h3 {
 }
 
 #drugname h2 {
-
+    
     color: white;
     font-size: 2em;
     text-emphasis-color: dimgray;
@@ -147,12 +144,13 @@ h3 {
 }
 
 #drugimage img {
-
+    
     border-radius: 5%;
 }
 
 
 #drugheading {
-
+    
     padding-bottom: 3rem;
 }
+
