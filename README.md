@@ -1,6 +1,10 @@
 # intergerteamA
 interger group A project
-The project is Web Application for drug. The user can search for a drug and see the drug details in term of the dosage, diseases it cure, side effect, and the drug manufacturer. 
+The project is Web Application for drug. The user can search for a drug and see the drug details in term of the dosage, diseases it cure, side effect, and the drug manufacturer.
+The following are the team member who contributed to the project:
+
+
+
 SODIQ  : Backend  Developed the Backend(PHP and Mysql)   https://github.com/skilfulsidiq/intergerteamA
 
 EMEKA : FrontEnd  Developed the frontend HTML, CSS and BOOTSTRAP https://github.com/bennando/GROUP-TASK
